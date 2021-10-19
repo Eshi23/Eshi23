@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Eshi23
-- 👀 I’m interested in Coding, Graphic Designing, Video Editing and Photography.
-- 🌱 I’m currently learning Coding 
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me @eshhiikkkaaa on instagram
+### Hi there, I'm Eshika 👋
 
-<!---
-Eshi23/Eshi23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I'm a Graphic designer, Student, Video editor, and a Photographer!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to click random pics
+
+### Connect with me:
+
+[<img align="left" alt="eshhiikkkaaa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/eshhiikkkaaa)
+[<img align="left" alt="Eshika verma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/eshika-verma-455801214/)
+[<img align="left" alt="eshhiikkkaaa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/eshhiikkkaaa)
+<br />
